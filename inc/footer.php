@@ -1,3 +1,3 @@
 <?php
-  echo "this is the footer";
+  echo "this is the footer \n";
 ?>

@@ -1,3 +1,3 @@
 <?php
-  echo "this is the header";
+  echo "this is the header \n";
 ?>
